@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#options {
+  margin: 20px auto;
+  width: 50%;
+}
+
+.option {
+  margin-bottom: 10px;
+}
+
+#voteBtn {
+  display: block;
+  margin: 20px auto;
+}
